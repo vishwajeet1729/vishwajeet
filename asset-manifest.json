@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vishwajeet/static/css/main.bf538fe7.css",
+    "main.js": "/vishwajeet/static/js/main.e17e6efe.js",
+    "static/media/HeroImg.jpg": "/vishwajeet/static/media/HeroImg.fc5083595f1a63660999.jpg",
+    "index.html": "/vishwajeet/index.html",
+    "main.bf538fe7.css.map": "/vishwajeet/static/css/main.bf538fe7.css.map",
+    "main.e17e6efe.js.map": "/vishwajeet/static/js/main.e17e6efe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.e17e6efe.js"
+  ]
+}
